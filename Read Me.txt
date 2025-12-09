@@ -1,0 +1,84 @@
+Terminal Journal — User Guide
+
+Terminal Journal is a lightweight, privacy‑first, keyboard‑driven journaling app that stores entries locally on your device. It opens like a terminal and accepts simple text commands to add, list, edit, search, and export your notes.
+
+Getting Started
+
+    Open the app and you’ll see a terminal interface with a prompt ($).
+
+    Type commands into the input area and press Enter to run them. Use Shift+Enter to insert a newline inside the     input.
+
+    History: press ↑ and ↓ to cycle through previous commands.
+
+    The app intentionally starts with an empty journal on first run.
+
+
+-- Type Help for Commands.
+
+
+Exporting and Importing
+
+    Export creates a plain text file of your entries grouped by date. Use the Export Text control or run export.
+
+    Import accepts a plain text file exported by the app or simple line‑based notes. The importer skips very short     tokens and common license fragments to avoid accidental junk. Use the Import Text control or run import.
+
+    Tip: Export before importing or before making bulk changes so you have a backup.
+
+Merge Duplicates and Data Hygiene
+
+    Merge removes exact duplicate entries (same date, type, and text). The app asks for confirmation before     merging.
+
+    The app filters out obvious license fragments and short random tokens when listing entries and during import     to keep lists clean.
+
+    If you need a completely fresh start, export any data you want to keep, then use the app’s reset option     provided by your installer or follow the app’s support instructions to clear local data.
+
+Keyboard Shortcuts and Accessibility
+
+    Enter to submit; Shift+Enter for newline.
+
+    ↑ / ↓ to navigate command history.
+
+    The UI is keyboard friendly and includes ARIA attributes for screen readers.
+
+Troubleshooting
+
+    Nothing appears after a command — make sure you pressed Enter and that the input is not empty.
+
+    Can’t type after an action — click the input area or press Tab to restore focus; the app restores focus     automatically after most actions.
+
+    Unexpected entries appear — these usually come from previously imported data. Export your current data, then     use the app’s cleanup or contact support for a one‑time reset.
+
+    Export or import fails — check file permissions and try again; exported files are plain text and can be     opened in any text editor.
+
+Privacy and Data Storage
+
+    Local only: all entries are stored locally on your device and are not uploaded or shared by default.
+
+    Backups: export regularly if you want an external backup. The app cannot recover deleted entries once they     are removed from local storage.
+
+    One‑time fresh install behavior: distributed copies of the app start with an empty journal on first run.
+
+Support and Feedback
+
+If you find bugs or want features, include a short description, steps to reproduce, and the app version shown in About when you contact support.
+
+Quick start checklist
+
+    Open the app.
+
+    Type help to see commands.
+
+    Add your first entry: add "My first note".
+
+    View entries: list.
+
+    Export for backup: export.
+
+Enjoy journaling.
+
+
+Please Buy the App if you enjoyed it and want to support the project(s).
+https://www.buymeacoffee.com/adamsync
+
+
+Copyright notice © 2025-2026 Adam A. All rights reserved.
