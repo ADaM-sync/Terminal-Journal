@@ -49,4 +49,4 @@ If you find this project helpful, consider supporting via Buy Me a Coffee. Your 
 https://buymeacoffee.com/adamsync
 
 
-Made with ❤️ by ADaM-sync
+Made with ❤️ by ADaM
