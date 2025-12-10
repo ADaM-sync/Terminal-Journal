@@ -47,6 +47,7 @@ More Features
 Free tools for animal welfare
 privacy-first utilities
 
+macOS and Linux version coming soon.
 
 🙌 Support
 
