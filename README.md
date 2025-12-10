@@ -3,7 +3,7 @@
 
 Terminal-Journal
 
-Welcome to Terminal-Journal, a privacy-first desktop application designed to help you securely record and manage your thoughts, notes, and ideas — all from the comfort of your terminal.
+Welcome to Terminal-Journal, a privacy-first desktop application designed to help you securely record and manage your thoughts, notes, and ideas — terminal style.
 
 🚀 Features
 
