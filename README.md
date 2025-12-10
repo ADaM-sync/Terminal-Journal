@@ -11,7 +11,7 @@ Offline-first journaling: No cloud sync, no data leaks — your entries stay on 
 
 Simple setup: Lightweight executable with no dependencies.
 
-Secure storage: Your journal is stored in plain text or encrypted format (optional).
+Secure storage: Your journal is stored in plain text.
 
 Command-line interface: Fast, distraction-free writing experience.
 
@@ -40,9 +40,8 @@ Terminal-Journal is built with privacy and simplicity in mind. No telemetry, no 
 🐾 Future Plans
 
 Your support helps us build:
-
+More Features
 Free tools for animal welfare
-
 privacy-first utilities
 
 
