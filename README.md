@@ -48,8 +48,8 @@ privacy-first utilities
 
 🙌 Support
 
-If you find this project helpful, consider supporting via Buy Me a Coffee. Your generosity fuels future development.
-https://buymeacoffee.com/adamsync
+If you find this project helpful, consider supporting via Buy Me a Coffee. [Buy Me a Coffee.](https://buymeacoffee.com/adamsync)
+Your generosity fuels future development.
 
 
 Made with ❤️ by ADaM
