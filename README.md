@@ -43,11 +43,15 @@ Terminal-Journal is built with privacy and simplicity in mind. No telemetry, no 
 🐾 Future Plans
 
 Your support helps us build:
+
 More Features
+
 Free tools for animal welfare
+
 privacy-first utilities
 
-macOS and Linux version coming soon.
+macOS and Linux version coming soon
+
 
 🙌 Support
 
