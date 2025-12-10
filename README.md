@@ -28,7 +28,7 @@ Create new journal entries
 
 Search past entries
 
-Export entries to text or markdown
+Export entries to text
 
 🧠 Philosophy
 
