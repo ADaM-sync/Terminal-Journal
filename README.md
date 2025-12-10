@@ -1,7 +1,7 @@
 ![Terminal J](https://github.com/ADaM-sync/Terminal-Journal/blob/main/TJ1.JPG)
 
 
-Terminal-Journal
+## Terminal-Journal
 
 Welcome to Terminal-Journal, a privacy-first desktop application designed to help you securely record and manage your thoughts, notes, and ideas — terminal style.
 
