@@ -1,62 +1,73 @@
-<img src="https://github.com/ADaM-sync/Terminal-Journal/blob/main/TJ1.JPG" alt="Alt text" width="700">
+# Terminal-Journal
 
+<img src="https://cdn.buymeacoffee.com/uploads/rewards/2025-12-09/1/195118_IMG_1424.png@1200w_0e.png" alt="Terminal-Journal" width="250">
 
+**A privacy-first journaling app for people who love the terminal.**  
+Write and manage your thoughts without accounts, cloud services, or distractions.
 
-## Terminal-Journal
+> Your journal. Your machine. Your privacy. >_
 
-<img src="https://cdn.buymeacoffee.com/uploads/rewards/2025-12-09/1/195118_IMG_1424.png@1200w_0e.png" alt="Alt text" width="300">
-
-A fast, offline, privacy-first journal terminal style!
+<img src="https://cdn.buymeacoffee.com/uploads/rewards/2025-12-09/1/154824_TJ1.JPG@1200w_0e.jpg" alt="Alt text" width="550">
 
 ## 🚀 Features
 
-Offline-first journaling: No cloud sync, no data leaks — your entries stay on your machine.
+### 🔒 Offline-first journaling
+Your entries stay on your computer. No cloud sync, no accounts, no tracking.
 
-Simple setup: Lightweight executable with no dependencies.
+### ⚡ Lightweight and simple
+A small, dependency-free application designed to start quickly and stay out of your way.
 
-Secure storage: Your journal is stored in plain text.
+### 🛡 Local storage
+Your journal data is stored locally on your machine.
 
-Command-line interface: Fast, distraction-free writing experience.
+### ⌨️ Terminal-style workflow
+A distraction-free command-line experience for writing and organizing your thoughts.
 
 ## 🛠 Installation
 
 Download the latest release:
 
-Terminal_Journal_Setup_1.0.0.0.exe
 
-Double-click to install. No internet connection required.
+Run the installer and start journaling.
+
+- No internet connection required
+- No account setup
+- No additional dependencies
 
 ## 📓 Usage
 
-After installation, launch the app and start writing. You can:
+After installation, launch Terminal-Journal and begin writing.
 
-Create new journal entries
+Current features:
 
-Search past entries
-
-Export entries to text
+- Create journal entries
+- Search previous entries
+- Export entries to text files
 
 ## 🧠 Philosophy
 
-Terminal-Journal is built with privacy and simplicity in mind. No telemetry, no tracking, no ads — just a clean space to think.
+Terminal-Journal is built around privacy, simplicity, and ownership.
+
+No telemetry.  
+No tracking.  
+No ads.
+
+Just a quiet space to write and reflect.
 
 ## 🐾 Future Plans
 
-Your support helps us build:
+With community support, future development may include:
 
-More Features
+- More journaling features
+- macOS and Linux versions
+- More privacy-focused utilities
+- Free tools supporting animal welfare projects
 
-Free tools for animal welfare
+## 🙌 Support Development
 
-privacy-first utilities
+If Terminal-Journal helps you, consider supporting the project:
 
-macOS and Linux version coming soon
+☕ [Buy Me a Coffee](https://buymeacoffee.com/adamsync)
 
+Your support helps keep the project open, improve features, and build more privacy-focused tools.
 
-## 🙌 Support
-
-If you find this project helpful, consider supporting via Buy Me a Coffee. [Buy Me a Coffee.](https://buymeacoffee.com/adamsync)
-Your generosity fuels future development.
-
-
-Made with ❤️ by ADaM
