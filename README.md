@@ -6,7 +6,7 @@
 
 <img src="https://cdn.buymeacoffee.com/uploads/rewards/2025-12-09/1/195118_IMG_1424.png@1200w_0e.png" alt="Alt text" width="300">
 
-Welcome to Terminal-Journal, a privacy-first desktop application designed to help you securely record and manage your thoughts, notes, and ideas — terminal style.
+A fast, offline, privacy-first journal terminal style!
 
 ## 🚀 Features
 
