@@ -71,3 +71,4 @@ If Terminal-Journal helps you, consider supporting the project:
 
 Your support helps keep the project open, improve features, and build more privacy-focused tools.
 
+Made with ❤️ by ADaM
