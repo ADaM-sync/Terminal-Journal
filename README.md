@@ -67,6 +67,8 @@ With community support, future development may include:
 
 If Terminal-Journal helps you, consider supporting the project:
 
+⭐ Star the project if you find it useful.
+
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/adamsync)
 
 Your support helps keep the project open, improve features, and build more privacy-focused tools.
